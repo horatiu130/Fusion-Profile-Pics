@@ -5,4 +5,4 @@ https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Avatars/pa
 Genres (Action, Comedy, Fantasy):
 
 
-https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/refs/heads/main/Genres/genres.json
+
