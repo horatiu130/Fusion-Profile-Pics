@@ -12,7 +12,7 @@
   {
     "id": "3",
     "title": "Anime",
-    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Animne.jpg"
+    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Anime.jpg"
   },
     {
     "id": "4",
@@ -22,7 +22,7 @@
     {
     "id": "5",
     "title": "Documentary",
-    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Documentaries.jpg"
+    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Documentary.jpg"
   },
     {
     "id": "6",
@@ -61,8 +61,8 @@
   },
   {
     "id": "13",
-    "title": "Sci Fi",
-    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/SciFi.jpg"
+    "title": "Sci-Fi",
+    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Sci-Fi.jpg"
   },
   {
     "id": "14",
@@ -77,6 +77,6 @@
   {
     "id": "16",
     "title": "Western",
-    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Westerm.jpg"
+    "backgroundURL": "https://raw.githubusercontent.com/horatiu130/Fusion-Profile-Pics/main/Genres/Western.jpg"
   }
 ]
